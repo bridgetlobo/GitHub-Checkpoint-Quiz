@@ -1,5 +1,6 @@
 //Bridget Lobo
 //LOBO
+//BRIDGET
 
 public class GitTest{
 	private String test;
