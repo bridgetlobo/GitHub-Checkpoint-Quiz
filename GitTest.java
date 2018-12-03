@@ -1,4 +1,5 @@
 //Bridget Lobo
+//LOBO
 //BRIDGET
 
 public class GitTest{
@@ -10,6 +11,5 @@ public class GitTest{
 
 	public String toString(String last){
 		return last;
-
 	}
 }
