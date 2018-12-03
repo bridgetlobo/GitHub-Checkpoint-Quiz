@@ -1,4 +1,5 @@
 //Bridget Lobo
+//LOBO
 
 public class GitTest{
 	private String test;
@@ -9,6 +10,5 @@ public class GitTest{
 
 	public String toString(String last){
 		return last;
-
 	}
 }
